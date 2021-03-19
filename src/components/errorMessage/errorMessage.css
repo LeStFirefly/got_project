@@ -1,0 +1,9 @@
+.errorBlock img {
+    width : 100%;
+    padding-top: 20px;
+}
+
+.errorBlock {
+    text-align: center;
+    color: red;
+}
